@@ -1,0 +1,14 @@
+# gabiss
+trabalho pensamento computacional
+<hmtl>
+    <head>
+        <meta charset="UTF-8">
+        <title>produtos - Ambiente Natural</title>
+    </head>
+    <body>
+
+    </body>
+</html>
+        <header>
+            <h1><img src="*.JPG,*.jpg"></h1>
+        <header> <hi class="titulo pricipal">Ambiente Natural</hi>
